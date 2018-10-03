@@ -1,2 +1,0 @@
-# ReactDropdown
-Created with CodeSandbox

@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+.dropdownRow {
+  display: flex;
+}

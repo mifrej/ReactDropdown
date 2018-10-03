@@ -1,0 +1,14 @@
+.dropdown {
+  flex-direction: row;
+  position: relative;
+}
+.menu {
+  left: 0;
+  position: absolute;
+  padding: 0.2rem;
+  border: solid 1px silver;
+}
+
+button {
+  white-space: nowrap;
+}
